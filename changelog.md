@@ -1,4 +1,4 @@
-Unofficial YouTube ReVanced v17.26.35 (updated)2
+Unofficial YouTube ReVanced v17.26.35 (updated)
 
 Available Amoled and Non-Amoled versions
 
