@@ -1,1 +1,3 @@
-# ReVanced-Updates
+Unofficial YouTube ReVanced
+
+Magisk Module
