@@ -1,29 +1,30 @@
-Unofficial YouTube ReVanced v17.26.35 (updated)
+Unofficial YouTube ReVanced v17.26.35
 
-Available Amoled and Non-Amoled versions
+Base updated to YouTube v17.26.35
+New updated optimizations and fixes
+Compiled with CLI v2.5.3, Patches v2.13.1 and Integrations v0.22.0
 
-Base updated to YouTube v17.26.35 New updated optimizations and fixes Compiled with CLI v2.5.3, Patches v2.13.1 and Integrations v0.22.0
+Just flash in Magisk!
 
-Applied Patches:
+Note: Disable auto-update for YouTube app in PlayStore.
 
-minimized-playback,
-disable-create-button,
-general-ads,
-video-ads,
-seekbar-tapping,
-hide-cast-button,
-premium-heading,
-old-quality-layout,
-disable-fullscreen-panels,
-custom-playback-speed
+Amoled & Non-Amoled available!
 
-Excluded Patches:
+MicroG is Disabled (Root Version not Need that!)
 
-custom-branding,
-fenster-swipe-controls,
-hdr-max-brightness,
-hide-shorts-button,
-hide-watermark,
-hide-infocard-suggestions,
-hide-autoplay-button,
-microg-support
+Features:
+Original YouTube Icon;
+Shorts Button Enabled;
+Channel Watermark Enabled;
+Channel Infocard Suggestions Enabled;
+AutoPlay Button Enabled;
+HDR Max Brightness Enabled;
+General & Vídeo Ads Removed;
+Premium Heading Enabled;
+Create Button Disabled;
+Cast Button Disabled;
+Old Quality Layout Disabled;
+Seekbar-Tapping Disabled;
+Fullscreen Panels Disabled;
+Custom Playback Speed;
+Swipe Controls Disabled;
