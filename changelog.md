@@ -1,10 +1,13 @@
 Unofficial YouTube ReVanced v17.26.35
 
-Base updated to YouTube v17.26.35 New updated optimizations and fixes Compiled with CLI v2.5.2, Patches v2.12.2 and Integrations v0.21.9
+Available Amoled and Non-Amoled versions
+
+Base updated to YouTube v17.26.35
+New updated optimizations and fixes
+Compiled with CLI v2.5.2, Patches v2.12.2 and Integrations v0.21.9
 
 Applied Patches:
 
-amoled,
 minimized-playback,
 disable-create-button,
 general-ads,
