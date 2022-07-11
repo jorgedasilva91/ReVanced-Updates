@@ -15,7 +15,7 @@ hide-cast-button,
 premium-heading,
 old-quality-layout,
 disable-fullscreen-panels,
-custom-playback-speed
+custom-playback-speed,
 swipe-controls
 
 Excluded Patches:
