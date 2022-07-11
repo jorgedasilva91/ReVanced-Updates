@@ -1,6 +1,8 @@
 Unofficial YouTube ReVanced v17.26.35
 
-Base updated to YouTube v17.26.35 New updated optimizations and fixes Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.1 and ReVanced Integrations v0.22.0
+Base updated to YouTube v17.26.35
+New updated optimizations and fixes
+Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.3 and ReVanced Integrations v0.22.1
 
 Just flash in Magisk!
 
@@ -25,6 +27,6 @@ Old Quality Layout Disabled;
 Seekbar-Tapping Disabled;
 Fullscreen Panels Disabled;
 Custom Playback Speed;
-Swipe Controls Disabled;
+Swipe Controls Enabled;
 
 All credits going to https://github.com/revanced
