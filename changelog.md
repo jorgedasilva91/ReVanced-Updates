@@ -1,8 +1,7 @@
 Unofficial YouTube ReVanced v17.26.35
 Unofficial YouTube Music ReVanced v5.03.50
 
-New updated optimizations and fixes
-Compiled with CLI v2.5.3, Patches v2.13.3 and Integrations v0.22.1
+New updated optimizations and fixes Compiled with CLI v2.5.3, Patches v2.13.3 and Integrations v0.22.1
 
 Applied Patches:
 
