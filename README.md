@@ -1,18 +1,15 @@
 Unofficial YouTube ReVanced v17.26.35
+Unofficial YouTube Music ReVanced v5.03.50
 
-Base updated to YouTube v17.26.35
 New updated optimizations and fixes
 Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.3 and ReVanced Integrations v0.22.1
 
 Just flash in Magisk!
 
-Note: Disable auto-update for YouTube app in PlayStore.
-
-Amoled & Non-Amoled available!
-
-MicroG is Disabled (Root Version not Need that!)
+Note: Disable auto-update for YouTube & YouTube Music apps in PlayStore.
 
 Features:
+Amoled Theme Enabled;
 Original YouTube Icon;
 Shorts Button Enabled;
 Channel Watermark Enabled;
