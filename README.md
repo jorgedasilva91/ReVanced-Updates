@@ -1,12 +1,9 @@
 Unofficial YouTube ReVanced v17.26.35
-Unofficial YouTube Music ReVanced v5.03.50
 
 New updated optimizations and fixes
-Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.3 and ReVanced Integrations v0.22.1
+Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.3 and ReVanced Integrations v0.24.0
 
-Just flash in Magisk!
-
-Note: Disable auto-update for YouTube & YouTube Music apps in PlayStore.
+Note: Disable auto-updates for YouTube app in PlayStore!
 
 Features:
 Amoled Theme Enabled;
@@ -25,5 +22,6 @@ Seekbar-Tapping Disabled;
 Fullscreen Panels Disabled;
 Custom Playback Speed;
 Swipe Controls Enabled;
+VP9 Codec Forced;
 
 All credits going to https://github.com/revanced
