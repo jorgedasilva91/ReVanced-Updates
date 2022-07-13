@@ -1,29 +1,32 @@
-Unofficial YouTube ReVanced v17.26.35
-Unofficial YouTube Music ReVanced v5.03.50
+Unofficial YouTube ReVanced
 
-New updated optimizations and fixes Compiled with CLI v2.5.3, Patches v2.13.3 and Integrations v0.22.1
+Base Version: 17.27.35 beta
 
-Applied Patches:
+Compiled with:
+- ReVanced CLI v2.5.3
+- ReVanced Patches v2.13.4
+- ReVanced Integrations v0.24.0
 
-amoled,
-minimized-playback,
-disable-create-button,
-general-ads,
-video-ads,
-seekbar-tapping,
-hide-cast-button,
-premium-heading,
-old-quality-layout,
-disable-fullscreen-panels,
-custom-playback-speed,
-swipe-controls
+Note: Disable auto-updates for YouTube app in PlayStore!
 
-Excluded Patches:
+Features:
 
-custom-branding,
-hdr-max-brightness,
-hide-shorts-button,
-hide-watermark,
-hide-infocard-suggestions,
-hide-autoplay-button,
-microg-support
+Amoled Theme Enabled;
+Original YouTube Icon;
+Shorts Button Enabled;
+Channel Watermark Enabled;
+Channel Infocard Suggestions Enabled;
+AutoPlay Button Enabled;
+HDR Max Brightness Enabled;
+General & Vídeo Ads Removed;
+Premium Heading Enabled;
+Create Button Disabled;
+Cast Button Disabled;
+Old Quality Layout Disabled;
+Seekbar-Tapping Disabled;
+Fullscreen Panels Disabled;
+Custom Playback Speed;
+Swipe Controls Enabled;
+VP9 Codec Forced;
+
+All credits going to https://github.com/revanced
