@@ -1,11 +1,16 @@
-Unofficial YouTube ReVanced v17.26.35
+Unofficial YouTube ReVanced
 
-New updated optimizations and fixes
-Compiled with ReVanced CLI v2.5.3, ReVanced Patches v2.13.3 and ReVanced Integrations v0.24.0
+Base Version: 17.27.35 beta
+
+Compiled with:
+- ReVanced CLI v2.5.3
+- ReVanced Patches v2.13.4
+- ReVanced Integrations v0.24.0
 
 Note: Disable auto-updates for YouTube app in PlayStore!
 
 Features:
+
 Amoled Theme Enabled;
 Original YouTube Icon;
 Shorts Button Enabled;
