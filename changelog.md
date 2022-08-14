@@ -1,18 +1,16 @@
 Release Date: 14-08-2022
   
-** This is a schedule build!
+** This is a test build!
   
 - ReVanced CLI v2.9.3  
-- ReVanced Patches v2.36.1  
+- ReVanced Patches v2.36.2  
 - ReVanced Integrations v0.33.0  
 
 YouTube version: 17.29.34  
-YouTube Stock APK [APKMirror](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-29-34-release/youtube-17-29-34-android-apk-download/)  
-Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814210811/ReVancedYouTube-v17.29.34.zip  
+Stock from [APKMirror - YouTube](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-29-34-release/youtube-17-29-34-android-apk-download/)  
 
 YT Music (arm64-v8a) version: 5.17.51  
-YT Music Stock APK [APKMirror](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-17-51-release/youtube-music-5-17-51-2-android-apk-download/)  
-Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814210811/ReVancedYTMusic-v5.17.51-arm64-v8a.zip  
+Stock from [APKMirror - YT Music](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-17-51-release/youtube-music-5-17-51-2-android-apk-download/)  
 
 - Custom 35 Patches  
 
