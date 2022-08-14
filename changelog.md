@@ -1,6 +1,6 @@
 Release Date: 14-08-2022
   
-** This is a test build!
+** This is a schedule build!
   
 - ReVanced CLI v2.9.3  
 - ReVanced Patches v2.36.2  
