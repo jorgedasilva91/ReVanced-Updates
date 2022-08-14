@@ -8,11 +8,11 @@ Release Date: 14-08-2022
 
 YouTube version: 17.29.34  
 YouTube Stock APK [APKMirror](https://www.apkmirror.com/apk/google-inc/youtube/youtube-17-29-34-release/youtube-17-29-34-android-apk-download/)  
-Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814185625/ReVancedYouTube-v17.29.34.zip  
+Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814191120/ReVancedYouTube-v17.29.34.zip  
 
 YT Music (arm64-v8a) version: 5.17.51  
 YT Music Stock APK [APKMirror](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-17-51-release/youtube-music-5-17-51-2-android-apk-download/)  
-Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814185625/ReVancedYTMusic-v5.17.51-arm64-v8a.zip  
+Direct Link: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/20220814191120/ReVancedYTMusic-v5.17.51-arm64-v8a.zip  
 
 - Custom 35 Patches  
 
