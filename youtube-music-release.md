@@ -4,8 +4,8 @@
 Release Date: 22-08-2022
   
 
-YouTube version: 17.32.35  
-- Download: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/youtube/ReVancedYouTube-v17.32.35.zip  
+YT Music (arm64-v8a) version: 5.17.51  
+- Download: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/youtube-music/ReVancedYTMusic-v5.17.51-arm64-v8a.zip  
 
 All credits reserved to ReVanced Team
 http://github.com/ReVanced  
