@@ -1,16 +1,16 @@
-Release at 11-09-2022 14:17
+Release at 15-09-2022 00:24
   
 - ReVanced Dependencies:
   
 ReVanced CLI v2.10.1  
-ReVanced Patches v2.52.1  
+ReVanced Patches v2.54.1  
 ReVanced Integrations v0.36.6  
 
 - Application:
   
 YouTube  
 Version: 17.33.42  
-Build: 20  
+Build: 21  
 
 - Download Links:
   
