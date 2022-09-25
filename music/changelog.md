@@ -1,28 +1,12 @@
-Release at 29-08-2022
+Release at 25-09-2022 00:34
   
 - ReVanced Dependencies:
   
-ReVanced CLI v2.9.3  
-ReVanced Patches v2.47.0  
-ReVanced Integrations v0.36.5  
+ReVanced CLI v2.11.2  
+ReVanced Patches v2.69.1  
+ReVanced Integrations v0.42.1  
 
-- Application:
-  
-YT Music  
-Version: 5.17.51  
-Build: 11  
-
-- Download Links:
-  
-Sotck APK: https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-5-17-51-release/youtube-music-5-17-51-2-android-apk-download/  
-
-Magisk Module: https://github.com/jorgedasilva91/ReVanced-Updates/releases/download/music/ReVancedYTMusic-v5.17.51-arm64-v8a.zip  
-
-- Custom 1 Patches  
-
-Included: none  
-
-Excluded: music-microg-support  
+YT Music v5.23.50 (arm64-v8a)  
 
 All credits reserved to ReVanced Team
 http://github.com/ReVanced  
