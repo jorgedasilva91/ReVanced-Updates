@@ -1,10 +1,10 @@
-Release at 28-09-2022 16:04
+Release at 03-10-2022 19:17
   
 - ReVanced Dependencies:
   
-ReVanced CLI v2.12.0  
-ReVanced Patches v2.71.2  
-ReVanced Integrations v0.44.0  
+ReVanced CLI v2.13.0  
+ReVanced Patches v2.79.0  
+ReVanced Integrations v0.48.0  
 
 - Application:
   
@@ -12,7 +12,7 @@ Name: YouTube
 Version: 17.36.37  
 Package: com.google.android.youtube  
 Arch: all  
-Build: 28  
+Build: 29  
 
 - Download Link:
   
